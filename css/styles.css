@@ -124,6 +124,7 @@ body {
   position: absolute;
   left: 0;
   bottom: -25px;
+  margin-bottom: -1px;
 }
 .header-link.current:active {
   content: '';
